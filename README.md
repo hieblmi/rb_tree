@@ -8,7 +8,7 @@ __Build__
 make
 ```
 
-__Execute Tests___
+__Execute Tests__
 ```
 ./bin/rb_tree_tests
 ```
